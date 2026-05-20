@@ -1,0 +1,248 @@
+You are a world-class expert in designing and building modern productivity applications.
+
+I want you to design and build a professional Desktop + Mobile application that combines:
+
+- Smart Notes
+- Calendar
+- Task Management
+
+into one seamless, elegant, ultra-fast experience.
+
+Temporary project name: “Nova Notes”
+
+Core Vision
+
+The app should be simple to use, visually premium, lightweight, extremely fast, and polished.
+
+The experience should feel like:
+Notion + TickTick + Apple Calendar combined,
+but without unnecessary complexity.
+
+Main Goals
+
+- Speed and lightweight performance are more important than excessive features.
+- Minimal yet premium UI.
+- Extremely smooth user experience.
+- Everything should require minimal clicks and friction.
+- The app should feel intelligent, calm, organized, and modern.
+
+What I Want You (Manus) To Do
+
+1. Design the full UI/UX.
+2. Build an interactive prototype.
+3. Recommend the best tech stack.
+4. Create a professional architecture.
+5. Create a modern design system (colors, typography, spacing).
+6. Design all app screens.
+7. Suggest scalable future-ready features.
+8. Automatically push the complete project to the connected GitHub account.
+
+---
+
+GitHub Integration (VERY IMPORTANT)
+
+I want you to:
+
+- Create a professional GitHub repository.
+- Push all project files and source code continuously.
+- Make clean and organized commits for every development stage.
+- Write a professional README file explaining the project and setup.
+- Create organized development branches.
+- Use Git professionally.
+- Upload:
+  - Source Code
+  - Assets
+  - UI Designs
+  - Documentation
+  - Database Schema
+  - Product Roadmap
+- Ensure the entire project is safely and consistently backed up on GitHub.
+- Configure a proper .gitignore.
+- Create Releases and proper Versioning.
+- Organize the project structure professionally.
+
+---
+
+Main Sections of the App
+
+1. Dashboard
+
+Should include:
+
+- Daily summary
+- Upcoming tasks
+- Upcoming events
+- Recent notes
+- Quick Add actions for:
+  - Note
+  - Task
+  - Event
+- Daily focus widget
+- Clean layout with smooth and lightweight animations
+
+---
+
+2. Smart Notes
+
+Required features:
+
+- Fast note-taking
+- Markdown support
+- Folder and tag organization
+- Instant search
+- Pin important notes
+- Categories and colors
+- Autosave
+- Support for images and attachments
+- Comfortable minimal writing interface
+- AI suggestions for summarizing and organizing notes
+
+---
+
+3. Calendar
+
+Must feel premium and professional:
+
+- Daily / Weekly / Monthly views
+- Drag-and-drop events
+- Smart reminders
+- Event color coding
+- Future sync with Google Calendar and Apple Calendar
+- Quick event creation
+- Beautiful agenda view
+- Time blocking
+
+---
+
+4. Tasks
+
+Features:
+
+- Smart task lists
+- Priorities
+- Due dates
+- Recurring tasks
+- Kanban view
+- Focus mode
+- Elegant productivity statistics
+- Progress tracking
+
+---
+
+AI Features
+
+Add practical AI features, not gimmicks:
+
+- Note summarization
+- Task extraction from text
+- Smart free-time suggestions
+- Automatic day organization
+- Smart reminder suggestions
+- Simple productivity analysis
+
+---
+
+Design Style
+
+Style
+
+- Minimal Premium
+- Subtle modern Glassmorphism
+- Dark Mode first + Light Mode
+- Smooth rounded corners
+- Professional lightweight animations
+- Comfortable spacing
+- Modern iconography
+
+Desired Feeling
+
+The app should feel:
+
+- Fast
+- Calm
+- Premium
+- Focused
+- Organized
+
+---
+
+Suggested Colors
+
+- Elegant dark backgrounds
+- Purple or electric blue accent color
+- Very subtle gradients
+- Avoid distracting colors
+
+---
+
+Typography
+
+Suggest modern fonts for both English and Arabic:
+
+- Inter
+- SF Pro
+- IBM Plex Sans Arabic
+- Cairo
+
+---
+
+Performance Requirements
+
+Very important:
+
+- The app must be extremely lightweight.
+- Instant page loading.
+- Low RAM usage.
+- GPU-friendly animations.
+- Lazy loading.
+- Offline-first architecture.
+
+---
+
+Suggested Technologies
+
+Recommend the best option among:
+
+- Flutter
+- Tauri
+- Electron
+- React Native
+
+Explain the pros and cons of each,
+then recommend the best stack for this type of application.
+
+---
+
+Final Deliverables
+
+I want:
+
+1. Full app concept
+2. Complete UI designs
+3. User flows
+4. Database structure
+5. App architecture
+6. MVP development plan
+7. Future expansion ideas
+8. Professional interactive prototype
+9. Ready-to-build production design
+10. Brand identity, logo ideas, and naming suggestions
+11. Full GitHub integration and organized repository management
+
+---
+
+Extremely Important
+
+I do NOT want a complicated or bloated application.
+
+I want:
+
+- Apple-level simplicity
+- Notion-level power
+- TickTick-level speed
+- Linear-level elegance
+
+The app should be:
+“Simple but Powerful”
+
+Start building this project as if you are creating a real global startup product.
