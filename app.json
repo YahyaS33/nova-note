@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "25248fdc-9c44-4812-a694-12a6ed169cc6"
+      }
+    },
+    "android": {
+      "package": "com.yahya.novanotes"
+    }
+  }
+}
